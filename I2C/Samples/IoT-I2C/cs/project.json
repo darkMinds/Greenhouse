@@ -1,0 +1,38 @@
+﻿{
+  "dependencies": {
+    "DotNetty.Buffers": "0.4.6",
+    "DotNetty.Codecs": "0.4.6",
+    "DotNetty.Codecs.Mqtt": "0.4.6",
+    "DotNetty.Common": "0.4.6",
+    "DotNetty.Transport": "0.4.6",
+    "EnterpriseLibrary.TransientFaultHandling": "6.0.1304",
+    "Microsoft.ApplicationInsights": "2.4.0",
+    "Microsoft.ApplicationInsights.PersistenceChannel": "1.2.3",
+    "Microsoft.ApplicationInsights.WindowsApps": "1.1.1",
+    "Microsoft.AspNet.WebApi.Client": "5.2.3",
+    "Microsoft.Azure.Amqp": "2.1.1",
+    "Microsoft.Azure.Devices.Client": "1.4.2",
+    "Microsoft.Azure.Devices.Shared": "1.1.0",
+    "Microsoft.Extensions.Logging": "1.1.1",
+    "Microsoft.Extensions.Logging.Abstractions": "1.1.1",
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
+    "Newtonsoft.Json": "10.0.3",
+    "PCLCrypto": "2.0.147",
+    "PInvoke.BCrypt": "0.5.97",
+    "PInvoke.Kernel32": "0.5.97",
+    "PInvoke.NCrypt": "0.5.97",
+    "PInvoke.Windows.Core": "0.5.97",
+    "Validation": "2.4.15"
+  },
+  "frameworks": {
+    "uap10.0.15063": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}

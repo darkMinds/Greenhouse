@@ -1,0 +1,1 @@
+C:\Users\noamg\Desktop\Windows-universal-samples-master\Samples\IoT-I2C\cs\I2C.csproj;x86

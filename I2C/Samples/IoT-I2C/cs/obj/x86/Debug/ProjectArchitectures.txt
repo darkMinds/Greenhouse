@@ -1,0 +1,1 @@
+C:\Users\edidavid\Desktop\I2C\Samples\IoT-I2C\cs\I2C.csproj;x86
